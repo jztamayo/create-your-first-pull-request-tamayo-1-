@@ -4,3 +4,5 @@ CMSC100 C-3L
 
 Yohann's Expectations:
 I expect to fully understand the usage of Git and GitHub while learning the ins and outs of basic web development. I hope to deepend my knowledge in HTML, JavaScript and databases. 
+
+Misha's Comment: Hi Yohann!! I'm sure you'll learn a lot this semester. There will be a lot of ups and downs pero I know you can get through this!
